@@ -1,0 +1,20 @@
+ZCZC ===== Chapter 07_1 =====  Week 09 =====
+ZCZC pwd /home/Veniche/git/os211quiz/SandBox/W09/W09
+ZCZC date 210522-2145
+ZCZC hostname Veniche
+ZCZC username Veniche
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn VenicheW09 Veniche 4520-F71B Verified
+ZCZC MaxLFS 3089M
+ZCZC MaxROOT 3184M
+ZCZC MaxMemory 94M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 101M
+ZCZC MaxMemory 102M
+ZCZC MaxMemory 103M
+ZCZC verifyTokenn VenicheW09 Veniche 4623-9ED5 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 4725-1CB5 Verified
+ZCZC MaxMemory 104M
