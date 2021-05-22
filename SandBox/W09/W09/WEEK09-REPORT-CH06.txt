@@ -1,0 +1,315 @@
+ZCZC ===== Chapter 06 =====  Week 09 =====
+ZCZC pwd /home/Veniche/git/os211quiz/SandBox/W09/W09
+ZCZC date 210522-1928
+ZCZC hostname Veniche
+ZCZC username Veniche
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn VenicheW09 Veniche 2855-6E22 Verified
+ZCZC MaxLFS 1864M
+ZCZC MaxROOT 3184M
+ZCZC MaxMemory 90M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 91M
+ZCZC MaxMemory 92M
+ZCZC MaxMemory 97M
+ZCZC MaxMemory 98M
+ZCZC verifyTokenn VenicheW09 Veniche 2957-D052 Verified
+ZCZC MaxLFS 1875M
+ZCZC MaxMemory 99M
+ZCZC MaxMemory 104M
+ZCZC MaxLFS 1878M
+ZCZC MaxLFS 1879M
+ZCZC MaxMemory 133M
+ZCZC MaxLFS 1882M
+ZCZC MaxMemory 175M
+ZCZC MaxLFS 1884M
+ZCZC verifyTokenn VenicheW09 Veniche 3059-F2B5 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 3201-676C Verified
+ZCZC verifyTokenn VenicheW09 Veniche 3303-14DD Verified
+ZCZC verifyTokenn VenicheW09 Veniche 3405-64E7 Verified
+ZCZC MaxLFS 1886M
+ZCZC verifyTokenn VenicheW09 Veniche 3506-3780 Verified
+ZCZC MaxLFS 1890M
+ZCZC MaxLFS 1893M
+ZCZC MaxLFS 1901M
+ZCZC MaxLFS 1902M
+ZCZC verifyTokenn VenicheW09 Veniche 3609-B40B Verified
+ZCZC MaxLFS 1903M
+ZCZC MaxMemory 181M
+ZCZC MaxLFS 1904M
+ZCZC MaxLFS 1905M
+ZCZC MaxLFS 1906M
+ZCZC MaxLFS 1910M
+ZCZC verifyTokenn VenicheW09 Veniche 3711-8038 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 3813-8EB1 Verified
+ZCZC MaxLFS 1919M
+ZCZC verifyTokenn VenicheW09 Veniche 3914-A8DB Verified
+ZCZC verifyTokenn VenicheW09 Veniche 4016-1E53 Verified
+ZCZC MaxMemory 203M
+ZCZC MaxMemory 314M
+ZCZC MaxROOT 3185M
+ZCZC MaxMemory 478M
+ZCZC MaxLFS 1926M
+ZCZC verifyTokenn VenicheW09 Veniche 4119-20E0 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 4221-A860 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 4324-C5A7 Verified
+ZCZC MaxLFS 1938M
+ZCZC MaxLFS 1941M
+ZCZC verifyTokenn VenicheW09 Veniche 4425-DA82 Verified
+ZCZC MaxLFS 1944M
+ZCZC MaxLFS 1945M
+ZCZC MaxLFS 1946M
+ZCZC MaxLFS 1951M
+ZCZC MaxLFS 1952M
+ZCZC verifyTokenn VenicheW09 Veniche 4527-8EC0 Verified
+ZCZC MaxLFS 1955M
+ZCZC MaxLFS 1957M
+ZCZC MaxLFS 1958M
+ZCZC MaxLFS 1961M
+ZCZC MaxLFS 1963M
+ZCZC MaxLFS 1965M
+ZCZC MaxLFS 1967M
+ZCZC MaxLFS 1968M
+ZCZC MaxLFS 2009M
+ZCZC MaxLFS 2010M
+ZCZC verifyTokenn VenicheW09 Veniche 4630-6CA8 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 4732-134D Verified
+ZCZC MaxLFS 2058M
+ZCZC verifyTokenn VenicheW09 Veniche 4833-372F Verified
+ZCZC verifyTokenn VenicheW09 Veniche 4935-8C40 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 5037-56D5 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 5139-2DED Verified
+ZCZC verifyTokenn VenicheW09 Veniche 5241-24F6 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 5343-CD83 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 5446-5FBD Verified
+ZCZC verifyTokenn VenicheW09 Veniche 5548-A24D Verified
+ZCZC verifyTokenn VenicheW09 Veniche 5650-1DC7 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 5752-8F03 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 5854-9FB3 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 5955-D327 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 0057-3FA9 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 0159-FEC1 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 0301-5D59 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 0402-20B5 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 0504-E410 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 0605-22AA Verified
+ZCZC verifyTokenn VenicheW09 Veniche 0707-E4C4 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 0809-7E5E Verified
+ZCZC verifyTokenn VenicheW09 Veniche 0911-B527 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 1014-4D26 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 1116-F566 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 1217-40C6 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 1319-6054 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 1420-0F65 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 1522-A187 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 1623-EB96 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 1725-0B2D Verified
+ZCZC verifyTokenn VenicheW09 Veniche 1826-0AAD Verified
+ZCZC verifyTokenn VenicheW09 Veniche 1928-D114 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 2030-C751 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 2133-DBFB Verified
+ZCZC verifyTokenn VenicheW09 Veniche 2235-5EBE Verified
+ZCZC verifyTokenn VenicheW09 Veniche 2338-10F6 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 2440-E1AD Verified
+ZCZC verifyTokenn VenicheW09 Veniche 2542-9DCC Verified
+ZCZC verifyTokenn VenicheW09 Veniche 2644-D2A5 Verified
+ZCZC MaxLFS 2061M
+ZCZC MaxLFS 2301M
+ZCZC verifyTokenn VenicheW09 Veniche 2746-B47C Verified
+ZCZC MaxLFS 2302M
+ZCZC MaxLFS 2303M
+ZCZC MaxLFS 2304M
+ZCZC MaxLFS 2308M
+ZCZC MaxLFS 2309M
+ZCZC MaxROOT 3186M
+ZCZC MaxLFS 2311M
+ZCZC verifyTokenn VenicheW09 Veniche 2848-7D7D Verified
+ZCZC MaxLFS 2318M
+ZCZC MaxLFS 2319M
+ZCZC MaxLFS 2324M
+ZCZC MaxLFS 2328M
+ZCZC MaxLFS 2331M
+ZCZC MaxLFS 2332M
+ZCZC MaxLFS 2334M
+ZCZC MaxLFS 2336M
+ZCZC MaxLFS 2339M
+ZCZC MaxLFS 2341M
+ZCZC verifyTokenn VenicheW09 Veniche 2951-804A Verified
+ZCZC MaxLFS 2371M
+ZCZC MaxLFS 2373M
+ZCZC MaxLFS 2382M
+ZCZC MaxLFS 2386M
+ZCZC MaxLFS 2390M
+ZCZC MaxLFS 2397M
+ZCZC MaxLFS 2403M
+ZCZC MaxLFS 2407M
+ZCZC MaxLFS 2409M
+ZCZC MaxLFS 2412M
+ZCZC verifyTokenn VenicheW09 Veniche 3054-BA8D Verified
+ZCZC MaxLFS 2419M
+ZCZC MaxLFS 2422M
+ZCZC MaxLFS 2427M
+ZCZC MaxLFS 2431M
+ZCZC MaxLFS 2439M
+ZCZC verifyTokenn VenicheW09 Veniche 3157-CA51 Verified
+ZCZC verifyTokenn VenicheW09 Veniche 3301-87B6 Verified
+ZCZC MaxLFS 2491M
+ZCZC verifyTokenn VenicheW09 Veniche 3404-15A6 Verified
+ZCZC MaxLFS 2561M
+ZCZC MaxLFS 2714M
+ZCZC MaxLFS 2867M
+ZCZC MaxLFS 2902M
+ZCZC MaxLFS 2914M
+ZCZC MaxLFS 2938M
+ZCZC verifyTokenn VenicheW09 Veniche 3506-3780 Verified
+ZCZC MaxLFS 2939M
+ZCZC verifyTokenn VenicheW09 Veniche 3608-2CE6 Verified
+ZCZC MaxLFS 2940M
+ZCZC MaxLFS 2942M
+ZCZC MaxLFS 2944M
+ZCZC MaxLFS 2948M
+ZCZC MaxLFS 2953M
+ZCZC verifyTokenn VenicheW09 Veniche 3710-DAED Verified
+ZCZC MaxLFS 2960M
+ZCZC MaxLFS 2963M
+ZCZC MaxLFS 2965M
+ZCZC MaxLFS 2967M
+ZCZC MaxLFS 2970M
+ZCZC MaxLFS 2974M
+ZCZC MaxLFS 2976M
+ZCZC MaxLFS 2979M
+ZCZC MaxLFS 2983M
+ZCZC MaxLFS 2984M
+ZCZC verifyTokenn VenicheW09 Veniche 3812-67F0 Verified
+ZCZC MaxLFS 2987M
+ZCZC MaxLFS 2989M
+ZCZC MaxLFS 2990M
+ZCZC MaxLFS 2992M
+ZCZC MaxLFS 2998M
+ZCZC MaxLFS 3000M
+ZCZC MaxLFS 3001M
+ZCZC MaxLFS 3002M
+ZCZC verifyTokenn VenicheW09 Veniche 3914-A8DB Verified
+ZCZC MaxLFS 3008M
+ZCZC MaxLFS 3014M
+ZCZC MaxMemory 500M
+ZCZC MaxLFS 3017M
+ZCZC MaxMemory 539M
+ZCZC MaxLFS 3037M
+ZCZC MaxMemory 614M
+ZCZC verifyTokenn VenicheW09 Veniche 4016-1E53 Verified
+ZCZC MaxLFS 3042M
+ZCZC MaxLFS 3054M
+ZCZC MaxMemory 658M
+ZCZC MaxLFS 3059M
+ZCZC MaxMemory 1163M
+ZCZC MaxLFS 3060M
+ZCZC MaxROOT 3188M
+ZCZC MaxMemory 1417M
+ZCZC MaxLFS 3067M
+ZCZC MaxROOT 3189M
+ZCZC MaxLFS 3072M
+ZCZC MaxLFS 3079M
+ZCZC MaxMemory 1866M
+ZCZC MaxLFS 3080M
+ZCZC MaxMemory 2132M
+ZCZC MaxLFS 3083M
+ZCZC verifyTokenn VenicheW09 Veniche 4120-881D Verified
+ZCZC MaxLFS 3088M
+ZCZC MaxMemory 2281M
+ZCZC MaxLFS 3090M
+ZCZC MaxROOT 3195M
+ZCZC MaxMemory 2468M
+ZCZC MaxLFS 3095M
+ZCZC MaxROOT 3196M
+ZCZC MaxLFS 3108M
+ZCZC MaxROOT 3201M
+ZCZC MaxMemory 2521M
+ZCZC MaxLFS 3112M
+ZCZC MaxROOT 3206M
+ZCZC MaxMemory 2701M
+ZCZC MaxLFS 3122M
+ZCZC MaxROOT 3211M
+ZCZC MaxLFS 3126M
+ZCZC MaxROOT 3218M
+ZCZC MaxLFS 3129M
+ZCZC MaxROOT 3238M
+ZCZC MaxLFS 3140M
+ZCZC MaxLFS 3149M
+ZCZC verifyTokenn VenicheW09 Veniche 4223-C3B6 Verified
+ZCZC MaxLFS 3153M
+ZCZC MaxLFS 3155M
+ZCZC MaxLFS 3159M
+ZCZC MaxMemory 2756M
+ZCZC MaxLFS 3163M
+ZCZC MaxLFS 3166M
+ZCZC MaxROOT 3315M
+ZCZC MaxLFS 3172M
+ZCZC MaxLFS 3179M
+ZCZC MaxLFS 3219M
+ZCZC MaxLFS 3227M
+ZCZC MaxLFS 3237M
+ZCZC verifyTokenn VenicheW09 Veniche 4326-C623 Verified
+ZCZC MaxLFS 3242M
+ZCZC MaxLFS 3250M
+ZCZC MaxLFS 3257M
+ZCZC MaxLFS 3289M
+ZCZC MaxLFS 3295M
+ZCZC MaxLFS 3305M
+ZCZC MaxLFS 3310M
+ZCZC MaxLFS 3317M
+ZCZC MaxLFS 3323M
+ZCZC MaxLFS 3331M
+ZCZC verifyTokenn VenicheW09 Veniche 4429-B990 Verified
+ZCZC MaxLFS 3335M
+ZCZC MaxLFS 3342M
+ZCZC MaxLFS 3350M
+ZCZC MaxLFS 3360M
+ZCZC MaxLFS 3364M
+ZCZC MaxLFS 3373M
+ZCZC MaxLFS 3379M
+ZCZC MaxLFS 3386M
+ZCZC MaxLFS 3393M
+ZCZC MaxLFS 3399M
+ZCZC verifyTokenn VenicheW09 Veniche 4532-94D5 Verified
+ZCZC MaxLFS 3409M
+ZCZC MaxLFS 3417M
+ZCZC MaxLFS 3426M
+ZCZC MaxLFS 3432M
+ZCZC MaxLFS 3442M
+ZCZC MaxLFS 3445M
+ZCZC MaxLFS 3457M
+ZCZC MaxLFS 3463M
+ZCZC MaxLFS 3470M
+ZCZC MaxLFS 3475M
+ZCZC verifyTokenn VenicheW09 Veniche 4636-82C0 Verified
+ZCZC MaxLFS 3487M
+ZCZC MaxLFS 3498M
+ZCZC MaxLFS 3503M
+ZCZC MaxLFS 3509M
+ZCZC MaxLFS 3519M
+ZCZC MaxLFS 3526M
+ZCZC MaxLFS 3530M
+ZCZC MaxLFS 3538M
+ZCZC MaxLFS 3547M
+ZCZC MaxLFS 3551M
+ZCZC verifyTokenn VenicheW09 Veniche 4739-AF3D Verified
+ZCZC MaxLFS 3558M
+ZCZC MaxLFS 3564M
+ZCZC MaxLFS 3566M
+ZCZC MaxLFS 3579M
+ZCZC MaxLFS 3586M
+ZCZC MaxLFS 3634M
+ZCZC MaxLFS 3649M
+ZCZC verifyTokenn VenicheW09 Veniche 4841-415F Verified
+ZCZC MaxLFS 3872M
+ZCZC MaxLFS 4655M
+ZCZC MaxLFS 4658M
+ZCZC MaxLFS 4666M
+ZCZC verifyTokenn VenicheW09 Veniche 4943-43E6 Verified
+ZCZC MaxLFS 5727M
+ZCZC MaxLFS 5731M
+ZCZC verifyTokenn VenicheW09 Veniche 5044-5DF5 Verified
